@@ -39,3 +39,14 @@ http://127.0.0.1:8000/docs
 
 # install heroku cli on WSL - Ubuntu
 * https://devcenter.heroku.com/articles/heroku-cli 
+
+# See  in Action 
+*  git push heroku master
+
+
+# Python version
+
+```
+python -V
+Python 3.8.10
+```
