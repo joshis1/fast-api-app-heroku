@@ -50,3 +50,8 @@ http://127.0.0.1:8000/docs
 python -V
 Python 3.8.10
 ```
+
+# Debugging heroku logs from cli
+```
+heroku logs --tail
+```
