@@ -55,3 +55,8 @@ Python 3.8.10
 ```
 heroku logs --tail
 ```
+
+Reference - https://devcenter.heroku.com/articles/logging#view-logs 
+
+## Testing 
+https://jshreyas-fastapi-app.herokuapp.com/docs 
