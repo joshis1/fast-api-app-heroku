@@ -33,4 +33,9 @@ http://127.0.0.1:8000/docs
 
  ## Create a deployment configuration procfile for Heroku.
 
- 
+ * Procfile is a heroku specific file and is read by the deployment configurations .
+ * Heroku automatically looks for the presence of procfile and executes the commands located in it.
+
+
+# install heroku cli on WSL - Ubuntu
+* https://devcenter.heroku.com/articles/heroku-cli 
